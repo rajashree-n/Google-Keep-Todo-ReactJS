@@ -1,8 +1,8 @@
 # Google-Keep-Todo-ReactJS
 Todo List ReactJS Application
 To start the application
-> cd into folder
-> npm start 
+> cd into folder then run 
+> npm start /npm install
 
 User can add Todos
 The UIis similar to Google Keep -  <a>https://play.google.com/store/apps/details?id=com.google.android.keep&hl=en</a>
